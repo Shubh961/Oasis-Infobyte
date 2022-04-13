@@ -1,0 +1,139 @@
+*{
+ 
+    margin: 0;
+ 
+    padding: 0;
+ 
+    box-sizing: border-box;
+ 
+}
+ 
+body{
+ 
+    font-family: sans-serif;
+ 
+    display: flex;
+ 
+    text-align: center;
+ 
+    justify-content: center;
+ 
+    min-height: 100vh;
+ 
+    background-image: url("1.webp");
+ 
+    background-color: aqua;
+ 
+    background-size: cover;
+ 
+    background-attachment: fixed;
+ 
+}
+ 
+h1{
+ 
+    margin-top: 40px;
+ 
+}
+ 
+.container h2{
+ 
+    color: white;
+ 
+    float: left;
+ 
+    margin-left: 30px;
+ 
+    margin-top: 5px;
+ 
+    /* font-family: 'Bebas Neue', cursive; */
+ 
+    /* font-family: 'Poppins', sans-serif; */
+ 
+    font-family: 'Source Serif Pro', serif;
+ 
+}
+ 
+table{
+ 
+    display: flex;
+ 
+    justify-content: center;
+ 
+    text-align: center;
+ 
+}
+ 
+.mainBody{
+ 
+    margin-top: 30px;
+ 
+    width: 350px;
+ 
+    background-color: rgb(6, 7, 6);
+ 
+    border-radius: 17px;
+ 
+}
+ 
+input{
+ 
+    height: 45px;
+ 
+    width: 300px;
+ 
+    margin-top: 6px;
+ 
+    border-radius: 5px;
+ 
+    background-color: whitesmoke;
+ 
+    font-size: 2rem;
+ 
+}
+ 
+button{
+ 
+    height: 60px;
+ 
+    width: 60px;
+ 
+    margin: 5px;
+ 
+    font-size: 18px;
+ 
+    border-radius: 5px;
+ 
+    background-color: rgb(9, 9, 9);
+ 
+    color: white; 
+ 
+    font-size: 2rem;
+ 
+    margin-bottom: 12px;
+ 
+}
+ 
+.operators{
+ 
+    color: yellow;
+ 
+    /* font-size: 2rem; */
+ 
+}
+ 
+#equalto{
+ 
+    background-color: green;
+ 
+}
+ 
+#clear{
+ 
+    background-color:red;
+ 
+}
+
+
+
+
